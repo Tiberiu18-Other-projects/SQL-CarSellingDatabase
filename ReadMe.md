@@ -1,4 +1,4 @@
-**Project Theme**: The sale of cars, both second-hand and new, similar to the website autovit.
+**Project Theme**: The sale of cars, both second-hand and new.
 
 When a car is posted for sale, the ad must include:
 
@@ -37,3 +37,7 @@ When a car is posted for sale, the ad must include:
 3. Between **Sellers** and **Counties**: 
    - M:1 relationship.
    - A seller can have residence in only one county, but in counties, there can be multiple sellers.
+
+
+**Diagram**:
+![image](https://github.com/Tiberiu18/SQL-CarSaleSimulator/assets/89936705/14790d35-2160-46b5-8cc2-e99ce205009a)
