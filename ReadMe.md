@@ -1,4 +1,5 @@
-**Project Theme**: The sale of cars, both second-hand and new.
+**Project Theme**: 
+Building the database for a car selling website, demonstrating the use through various SQL statements.
 
 When a car is posted for sale, the ad must include:
 
