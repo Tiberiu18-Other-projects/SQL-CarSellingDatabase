@@ -15,14 +15,7 @@ When a car is posted for sale, the ad must include:
   - Type of fuel
   - Price
 
----
-
-**Website Features**:
-
-- An **archive** that keeps all the records that are no longer valid (it is assumed that the respective cars have been sold).
-- A **sales history**.
-
----
+Also, there has to be an archive that holds all the ads that are no longer available (we assume that those cars have been sold) - kind of like an ad history.
 
 **Entity Relationships**:
 
